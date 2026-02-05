@@ -25,8 +25,7 @@ Traditional tutorials often rely on passive instruction. CodeLab differs by prov
 ## Build and Run Instructions
 
 ### 1. Clone the Repository
-### ```bash
-### git clone <your-repository-link>
+### git clone https://github.com/nq-98/CodeLab/
 ### cd CodeLab
 
 ### 2. Maven Configuration
